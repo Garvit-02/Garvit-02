@@ -1,13 +1,23 @@
 ## 👋 Hi, I'm Garvit Gupta  
 
-🎓 CSE Undergraduate (AI & ML) | Batch of 2026  
-💻 Full Stack Developer (Backend-Focused)  
+🎓 CSE Undergraduate(Specalization in AI & ML) @ VIT Bhopal | Batch of 2026  
+💻 Full Stack Developer (MERN)
+🔧 Backend-focused (Node.js, Express, MongoDB)
+🚀 Building scalable web apps
 🚀 MERN Stack | REST APIs | JWT | RBAC  
 
 📫 **Email:** garvitgupta563@gmail.com  
 🔗 **LinkedIn:** [Garvit Gupta](https://www.linkedin.com/in/garvit-gupta-493995253/)
 
-## 🚀 Tech Stack
+🧠 About Me
+-💡 I love solving real-world problems with clean code & creative interfaces
+-🧩 I build AI-driven, full-stack, and automation-based tools that save time & enhance productivity
+-🛠️ Tech stack: React, Next.js, Tailwind CSS, Node.js, Python, Java
+-☁️ Exploring: Generative AI, LLMs, AWS, and Scalable Web Systems
+-🚀 Always learning. Always building. Always shipping.
+
+
+## 🚀 Tech Arsenal
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -16,12 +26,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-## 📊 GitHub Stats
-
-![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garvit-02&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-02&layout=compact&theme=radical)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📌 Featured Projects
 
@@ -30,6 +38,11 @@
 | [Food Ordering Website](https://github.com/Garvit-02/FoodOrdering-App) | MERN-based food ordering system with Stripe payments | React, Node.js, MongoDB |
 | [WebHome – Airbnb Clone](https://github.com/Garvit-02/WebHouse) | Rental platform with booking & dashboards | React, Node.js, Express |
 | [Policy Insurance Website](https://github.com/Garvit-02/Policy_insurance_website) | Policy management with RBAC | React, Node.js, MySQL |
+
+## 📊 GitHub Stats
+
+![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garvit-02&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-02&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
