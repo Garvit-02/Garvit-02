@@ -1,23 +1,27 @@
 ## 👋 Hi, I'm Garvit Gupta  
 
 🎓 CSE Undergraduate(Specalization in AI & ML) @ VIT Bhopal | Batch of 2026  
-💻 Full Stack Developer (MERN)
-🔧 Backend-focused (Node.js, Express, MongoDB)
-🚀 Building scalable web apps
+💻 Full Stack Developer (MERN)<br>
+🔧 Backend-focused (Node.js, Express, MongoDB)<br>
+🚀 Building scalable web apps<br>
 🚀 MERN Stack | REST APIs | JWT | RBAC  
 
-📫 **Email:** garvitgupta563@gmail.com  
+📫 **Email:** garvitgupta563@gmail.com<br>
 🔗 **LinkedIn:** [Garvit Gupta](https://www.linkedin.com/in/garvit-gupta-493995253/)
 
-🧠 About Me
--💡 I love solving real-world problems with clean code & creative interfaces
--🧩 I build AI-driven, full-stack, and automation-based tools that save time & enhance productivity
--🛠️ Tech stack: React, Next.js, Tailwind CSS, Node.js, Python, Java
--☁️ Exploring: Generative AI, LLMs, AWS, and Scalable Web Systems
--🚀 Always learning. Always building. Always shipping.
+## 🧠 About Me
+
+- 💡 I love solving real-world problems with clean code & creative interfaces
+- 🧩 I build AI-driven, full-stack, and automation-based tools that save time & enhance productivity
+- 🛠️ Tech Stack: React, Next.js, Tailwind CSS, Node.js, Python, Java
+- ☁️ Exploring: Generative AI, LLMs, AWS, and Scalable Web Systems
+- 🚀 Always learning. Always building. Always shipping.
+
 
 
 ## 🚀 Tech Arsenal
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -45,6 +49,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-02&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:garvitgupta563@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/garvit-gupta-493995253/)
