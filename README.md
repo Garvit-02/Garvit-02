@@ -45,8 +45,10 @@
 
 ## 📊 GitHub Stats
 
-![Garvit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Garvit-02&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-02&layout=compact&theme=radical)
+![Garvit's Stats](https://github-profile-trophy.vercel.app/?username=Garvit-02&theme=radical)[web:21]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-02&layout=compact&theme=radical&hide=jupyter%20notebook)[web:21]
+![Metrics](https://raw.githubusercontent.com/y7kim/y7kim/output/github-contribution-grid-snake.svg)
+
 
 ## 🤝 Let's Connect
 
