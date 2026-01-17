@@ -45,9 +45,15 @@
 
 ## 📊 GitHub Stats
 
-![Garvit's Stats](https://github-profile-trophy.vercel.app/?username=Garvit-02&theme=radical)[web:21]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garvit-02&layout=compact&theme=radical&hide=jupyter%20notebook)[web:21]
-![Metrics](https://raw.githubusercontent.com/y7kim/y7kim/output/github-contribution-grid-snake.svg)
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; GitHub Analytics</h3>
+<p align="center">
+    <!-- <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurang-Khator&theme=gruvbox" /> -->
+    <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurang-Khator&theme=react-dark"/>
+    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurang-Khator&theme=gruvbox" />
+    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurang-Khator&theme=gruvbox" />
+
+</p>
+
 
 
 ## 🤝 Let's Connect
