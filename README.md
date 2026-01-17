@@ -48,9 +48,9 @@
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; GitHub Analytics</h3>
 <p align="center">
     <!-- <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurang-Khator&theme=gruvbox" /> -->
-    <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurang-Khator&theme=react-dark"/>
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurang-Khator&theme=gruvbox" />
-    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurang-Khator&theme=gruvbox" />
+    <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=Garvit-02&theme=react-dark"/>
+    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Garvit-02&theme=gruvbox" />
+    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Garvit-02&theme=gruvbox" />
 
 </p>
 
