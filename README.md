@@ -39,7 +39,7 @@
 
 | Project | Description | Tech Stack |
 |--------|------------|------------|
-| [WebHome – Airbnb Clone](https://github.com/Garvit-02/WebHouse) | Rental platform with booking & dashboards | React, Node.js, Express |
+| [WebHome – Airbnb Clone](https://github.com/Garvit-02/WebHouse) | Rental platform with booking & dashboards | Node.js, Express, EJS |
 | [Policy Insurance Website](https://github.com/Garvit-02/Policy_insurance_website) | Policy management with RBAC | React, Node.js, MySQL |
 | [Food Ordering Website](https://github.com/Garvit-02/FoodOrdering-App) | MERN-based food ordering system with Stripe payments | React, Node.js, MongoDB |
 
