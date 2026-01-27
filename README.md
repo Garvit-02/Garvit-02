@@ -8,6 +8,7 @@
 
 📫 **Email:** garvitgupta563@gmail.com<br>
 🔗 **LinkedIn:** [Garvit Gupta](https://www.linkedin.com/in/garvit-gupta-493995253/)
+🔗 **LeetCode:** [Garvit Gupta](https://leetcode.com/u/Garvit_2024/)
 
 ## 🧠 About Me
 
