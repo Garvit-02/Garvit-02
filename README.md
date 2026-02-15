@@ -4,7 +4,7 @@
 💻 Full Stack Developer (MERN)<br>
 🔧 Backend-focused (Node.js, Express, MongoDB)<br>
 🚀 Building scalable web apps<br>
-🚀 MERN Stack | REST APIs | JWT | RBAC  
+🚀 REST APIs | JWT | RBAC  
 
 📫 **Email:** garvitgupta563@gmail.com<br>
 🔗 **LinkedIn:** [Garvit Gupta](https://www.linkedin.com/in/garvit-gupta-493995253/)<br>
